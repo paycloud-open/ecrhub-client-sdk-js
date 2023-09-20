@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "module": "commonjs",
+    "target": "es5",
+    "lib": ["dom", "es2015", "es5", "es6"],
+    "rootDir": "src",
+    "removeComments": true,
+    "declaration": true,
+  },
+  "exclude": ["./dist","./lib"],
+}
